@@ -4,84 +4,83 @@ A collection of accepted LeetCode solutions synced automatically by LeetSync.
 
 ## Overview
 
-- Total solved problems: 5
-- Unique titles tracked: 4
-- Easy: 2
+- Total solved problems: 4
+- Easy: 3
 - Medium: 1
 - Hard: 0
-- Uncategorized difficulty: 2
+- Uncategorized difficulty: 0
 
 ## All Problems
 
-| Problem | Difficulty | Language | Topics | Last Solved | Submissions | Folder |
+| Problem | Difficulty | Languages | Topics | Last Solved | Submissions | Folder |
 | --- | --- | --- | --- | --- | ---: | --- |
-| [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/submissions/detail/2022487355/) | Unknown | Java | Uncategorized | 6/29/2026, 2:39:34 PM | 1 | [Unknown/LeetCode-The-World's-Leading-Online-Programming-Learning-Platform](./Unknown/LeetCode-The-World's-Leading-Online-Programming-Learning-Platform) |
-| [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/2049762945/) | Easy | Java | Array, Prefix Sum | 6/29/2026, 1:19:58 PM | 1 | [Easy/Left-and-Right-Sum-Differences](./Easy/Left-and-Right-Sum-Differences) |
-| [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049847448/) | Easy | Java | Array, Hash Table, Divide and Conquer, Sorting, Counting | 6/29/2026, 2:40:51 PM | 2 | [Easy/Majority-Element](./Easy/Majority-Element) |
-| [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049907953/) | Unknown | Unknown | Array, Hash Table, Divide and Conquer, Sorting, Counting | 6/29/2026, 3:35:10 PM | 3 | [Unknown/Majority-Element](./Unknown/Majority-Element) |
-| [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/submissions/2049758276/) | Medium | Java | String, Stack, Simulation | 6/29/2026, 1:19:57 PM | 1 | [Medium/Removing-Stars-From-a-String](./Medium/Removing-Stars-From-a-String) |
+| [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | Easy | Java | Array, Binary Search, Ordered Set, Segment Tree, Simulation | 6/30/2026, 12:16:31 AM | 1 | [Easy/Fruits-Into-Baskets-II](./Easy/Fruits-Into-Baskets-II) |
+| [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | Java | Array, Prefix Sum | 6/29/2026, 1:19:58 PM | 1 | [Easy/Left-and-Right-Sum-Differences](./Easy/Left-and-Right-Sum-Differences) |
+| [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Java, Unknown | Array, Counting, Divide and Conquer, Hash Table, Sorting | 6/29/2026, 3:35:10 PM | 5 | [Unknown/Majority-Element](./Unknown/Majority-Element) |
+| [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | Java | Simulation, Stack, String | 6/29/2026, 1:19:57 PM | 1 | [Medium/Removing-Stars-From-a-String](./Medium/Removing-Stars-From-a-String) |
 
 ## LeetCode Topics
 
 ### Array
 
-- [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/2049762945/) (Easy, Java)
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049847448/) (Easy, Java)
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049907953/) (Unknown, Unknown)
+- [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) (Easy, Java)
+- [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) (Easy, Java)
+- [Majority Element](https://leetcode.com/problems/majority-element/) (Easy, Java, Unknown)
+
+### Binary Search
+
+- [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) (Easy, Java)
 
 ### Counting
 
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049847448/) (Easy, Java)
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049907953/) (Unknown, Unknown)
+- [Majority Element](https://leetcode.com/problems/majority-element/) (Easy, Java, Unknown)
 
 ### Divide and Conquer
 
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049847448/) (Easy, Java)
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049907953/) (Unknown, Unknown)
+- [Majority Element](https://leetcode.com/problems/majority-element/) (Easy, Java, Unknown)
 
 ### Hash Table
 
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049847448/) (Easy, Java)
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049907953/) (Unknown, Unknown)
+- [Majority Element](https://leetcode.com/problems/majority-element/) (Easy, Java, Unknown)
+
+### Ordered Set
+
+- [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) (Easy, Java)
 
 ### Prefix Sum
 
-- [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/2049762945/) (Easy, Java)
+- [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) (Easy, Java)
+
+### Segment Tree
+
+- [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) (Easy, Java)
 
 ### Simulation
 
-- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/submissions/2049758276/) (Medium, Java)
+- [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) (Easy, Java)
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) (Medium, Java)
 
 ### Sorting
 
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049847448/) (Easy, Java)
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049907953/) (Unknown, Unknown)
+- [Majority Element](https://leetcode.com/problems/majority-element/) (Easy, Java, Unknown)
 
 ### Stack
 
-- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/submissions/2049758276/) (Medium, Java)
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) (Medium, Java)
 
 ### String
 
-- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/submissions/2049758276/) (Medium, Java)
-
-### Uncategorized
-
-- [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/submissions/detail/2022487355/) (Unknown, Java)
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) (Medium, Java)
 
 ## Difficulty Breakdown
 
 ### Easy
 
-- [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/submissions/2049762945/) - Easy - Array, Prefix Sum
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049847448/) - Easy - Array, Hash Table, Divide and Conquer, Sorting, Counting
+- [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) - Easy - Array, Binary Search, Ordered Set, Segment Tree, Simulation
+- [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) - Easy - Array, Prefix Sum
+- [Majority Element](https://leetcode.com/problems/majority-element/) - Easy - Array, Counting, Divide and Conquer, Hash Table, Sorting
 
 ### Medium
 
-- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/submissions/2049758276/) - Medium - String, Stack, Simulation
-
-### Unknown
-
-- [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/submissions/detail/2022487355/) - Unknown - Uncategorized
-- [Majority Element](https://leetcode.com/problems/majority-element/submissions/2049907953/) - Unknown - Array, Hash Table, Divide and Conquer, Sorting, Counting
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) - Medium - Simulation, Stack, String
 
