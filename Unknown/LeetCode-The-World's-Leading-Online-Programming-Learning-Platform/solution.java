@@ -1,18 +1,19 @@
 1class Solution {
-2    public int[] leftRightDifference(int[] nums) {
-3        int n = nums.length;
-4        int ts = 0;
+2    public int majorityElement(int[] nums) {
+3        int candidate = 0;
+4        int count = 0;
 5
 6        for (int num : nums) {
-7            ts += num;
-8        }
-9        int ans[] = new int[n];
-10        int lS = 0;
-11        for (int i = 0; i < n; i++) {
-12            int rS = ts - lS - nums[i];
-13            ans[i] = Math.abs(lS - rS);
-14            lS += nums[i];
-15        }
-16        return ans;
-17    }
-18}
+7            if (count == -0) {
+8                candidate = num;
+9            }
+10
+11            if (num == candidate) {
+12                count++;
+13            } else {
+14                count--;
+15            }
+16        }
+17        return candidate;
+18    }
+19}
