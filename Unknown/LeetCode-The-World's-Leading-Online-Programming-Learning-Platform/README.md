@@ -4,10 +4,14 @@
 - Language: Java
 - Runtime: 2
 ms
-- Memory: 46.83
+- Memory: 55.62
 MB
-- Solved On: 6/29/2026, 10:27:13 AM
-- Problem URL: https://leetcode.com/submissions/detail/2036532853/
+- Solve Mode: Initial accepted solution.
+- First Solved: 6/29/2026, 2:39:34 PM
+- Last Solved: 6/29/2026, 2:39:34 PM
+- Last Updated: 6/29/2026, 2:39:34 PM
+- Submission Count: 1
+- Problem URL: https://leetcode.com/submissions/detail/2022487355/
 
 ## Tags
 - Not captured
