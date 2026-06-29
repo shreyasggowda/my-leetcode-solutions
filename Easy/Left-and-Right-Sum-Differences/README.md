@@ -2,12 +2,12 @@
 
 - Difficulty: Easy
 - Language: Java
-- Runtime: 2
+- Runtime: 0
 ms
-- Memory: 46.58
+- Memory: 0.00
 MB
-- Solved On: 6/29/2026, 10:30:02 AM
-- Problem URL: https://leetcode.com/problems/left-and-right-sum-differences/submissions/2049569386/
+- Solved On: 6/29/2026, 12:44:49 PM
+- Problem URL: https://leetcode.com/problems/left-and-right-sum-differences/submissions/2049730536/
 
 ## Tags
 - Array
